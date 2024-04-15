@@ -51,3 +51,14 @@ This web application displays lists of board games and their reviews. While anyo
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
 5. You can also sign-up as a new user and customize your role to play with the application! 😊
+
+
+<img width="1470" alt="Screenshot 2024-03-25 at 5 58 09 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/fc858be5-dbaa-4414-890e-5217c737fc8f">
+<img width="1470" alt="Screenshot 2024-03-25 at 5 58 17 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/5da7c1ae-54a6-4de5-b0b9-1730dbc0006c">
+<img width="1470" alt="Screenshot 2024-03-25 at 5 58 25 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/2ab5c009-6599-4eaf-b495-71cfa18bdf66">
+<img width="1470" alt="Screenshot 2024-03-25 at 5 58 34 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/00de9b35-0a30-4e2d-94d0-ef009fab4f21">
+<img width="1470" alt="Screenshot 2024-03-25 at 6 03 01 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/e862386d-0c12-4050-85cc-63e5ceeca23b">
+<img width="1470" alt="Screenshot 2024-03-25 at 6 02 28 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/790c979e-10af-4f28-ba5b-6071708d1acd">
+<img width="1470" alt="Screenshot 2024-03-25 at 5 58 54 PM" src="https://github.com/MytPraveen/Boardgame/assets/160492814/d346dd56-86ab-41db-8fc5-6e4895e5a5a7">
+
+
